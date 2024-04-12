@@ -9,7 +9,6 @@ body {
 h1 {
     font-style: garamond;
     text-align: center;
-
 }
 
 header {
@@ -61,7 +60,6 @@ span{
 img {
     display: block;
     margin: 0 auto;
-    width: 75%;
 }
 
 ul {
@@ -85,11 +83,10 @@ footer {
 	text-align: center;
     position: relative;
 	margin-top: 25%;
-    border-top: 4px solid #016817;
 }
 .logo {
     width: 200px; 
     height: auto; 
     margin-right: 10px; 
+    border-top: 4px solid #016817;
 }
-

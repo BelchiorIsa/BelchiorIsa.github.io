@@ -9,7 +9,6 @@ body {
 h1 {
     font-style: garamond;
     text-align: center;
-
 }
 
 header {
@@ -57,11 +56,19 @@ header {
 span{
     color: rgb(83, 182, 59);
 }
+#abacaxi{
+    color: yellow;
+}
+#acerola{
+    color: rgb(219, 119, 112);
+}
+#maracujá{
+    color: rgb(199, 147, 50);
+}
 
 img {
     display: block;
     margin: 0 auto;
-    width: 75%;
 }
 
 ul {
@@ -77,7 +84,6 @@ ul li {
 h2 {
     text-align: center;
 }
-
 footer {
 	background-color:#000000;
 	color: #fff;
